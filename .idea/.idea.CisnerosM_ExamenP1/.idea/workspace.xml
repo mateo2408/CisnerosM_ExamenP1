@@ -8,10 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86ef9217-597f-494e-9d72-6bd5dc4f3bdb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Views/Cliente/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Cliente/Create.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Cliente/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Cliente/Index.cshtml" afterDir="false" />
-    </list>
+    <list default="true" id="86ef9217-597f-494e-9d72-6bd5dc4f3bdb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +104,7 @@
       <workItem from="1745858738935" duration="424000" />
       <workItem from="1745859167903" duration="582000" />
       <workItem from="1745859752579" duration="170000" />
-      <workItem from="1745859990134" duration="825000" />
+      <workItem from="1745859990134" duration="1202000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit">
       <option name="closed" value="true" />
@@ -181,7 +178,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745860661547</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Botones Cliente a Bootstrap">
+      <option name="closed" value="true" />
+      <created>1745860920208</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745860920208</updated>
+    </task>
+    <task id="LOCAL-00011" summary="PlanDeRecompensas a bootstrap">
+      <option name="closed" value="true" />
+      <created>1745861138468</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1745861138468</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +213,9 @@
     <MESSAGE value="Base de datos" />
     <MESSAGE value="Subir cambios a repo" />
     <MESSAGE value="Creacion de seccion para Hotel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creacion de seccion para Hotel" />
+    <MESSAGE value="Botones Cliente a Bootstrap" />
+    <MESSAGE value="PlanDeRecompensas a bootstrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="PlanDeRecompensas a bootstrap" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
